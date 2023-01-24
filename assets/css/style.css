@@ -19,6 +19,10 @@ h2 {
     color: #252525;
 }
 
+#menu, #logo {
+    line-height: 75px;
+}
+
 #logo {
     float: left;
     font-size: 280%;
@@ -31,6 +35,10 @@ h2 {
 
 }
 
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 #menu ul {
     float: right;
 }
@@ -39,4 +47,13 @@ h2 {
     display:inline;
     list-style: none;
     margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color:inherit;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a ;
 }
