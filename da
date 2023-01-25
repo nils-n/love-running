@@ -1,0 +1,72 @@
+[33mcommit b56be729bfb8c9364a7f5e57c8bab5983ee31577[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: nils-n <52067471+nils-n@users.noreply.github.com>
+Date:   Wed Jan 25 12:33:46 2023 +0000
+
+    add animation for zoom
+
+[33mcommit 6a8b93eab190e5e687b4d3f82092ba9616fcd976[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 4e58e13 68b52be
+Author: nils-n <52067471+nils-n@users.noreply.github.com>
+Date:   Wed Jan 25 12:23:52 2023 +0000
+
+    solve a merge conflict
+
+[33mcommit 4e58e13658024d8ce2cad905b5f42b128349ed54[m
+Author: nils-n <52067471+nils-n@users.noreply.github.com>
+Date:   Wed Jan 25 12:19:19 2023 +0000
+
+    add further styling to navigation elements
+
+[33mcommit 68b52be51f8e34e8142cef98203d391047f3bf39[m
+Author: nils-n <52067471+nils-n@users.noreply.github.com>
+Date:   Tue Jan 24 17:47:27 2023 +0000
+
+    add further styling to navigation elements
+
+[33mcommit c3910f7ef899c48fd9c01864ad63305963325d8f[m
+Author: nils-n <52067471+nils-n@users.noreply.github.com>
+Date:   Tue Jan 24 17:34:30 2023 +0000
+
+    add styling for nav elements and reorder links using css
+
+[33mcommit 4311a9ff7b8ef0ace644e957e84f5f25d4a35aba[m
+Author: nils-n <52067471+nils-n@users.noreply.github.com>
+Date:   Tue Jan 24 17:20:19 2023 +0000
+
+    add styling for header and logo
+
+[33mcommit 16d02bd53afb97cf665a5d5e7f206848d1bb05a8[m
+Author: nils-n <52067471+nils-n@users.noreply.github.com>
+Date:   Tue Jan 24 16:40:53 2023 +0000
+
+    add google fonts and remove default margin, padding, border
+
+[33mcommit 930ab74db94d892114d70f6d605e034c6c651b97[m
+Author: nils-n <52067471+nils-n@users.noreply.github.com>
+Date:   Tue Jan 24 09:02:30 2023 +0000
+
+    add basic strucutre to header
+
+[33mcommit 0b525065f0c246b7db36e792335cad622cfe5400[m
+Author: nils-n <nilsdn86@gmail.com>
+Date:   Tue Jan 24 08:21:59 2023 +0000
+
+    Add core structure to home page
+
+[33mcommit e908454908f48721215bc9cedf0407f7c60b8057[m
+Author: nils-n <nilsdn86@gmail.com>
+Date:   Tue Jan 24 08:13:21 2023 +0000
+
+    Add metadata to head and connect css file
+
+[33mcommit fab7cb9d864d75c209f884aeec207a10f8a9aecf[m
+Author: nils-n <52067471+nils-n@users.noreply.github.com>
+Date:   Mon Jan 23 21:04:49 2023 +0000
+
+    Initial commit
+
+[33mcommit eba8051fa7ab2ff646386982754ebb7fb2d4b225[m
+Author: nils-n <52067471+nils-n@users.noreply.github.com>
+Date:   Mon Jan 23 17:52:54 2023 +0000
+
+    Initial commit
