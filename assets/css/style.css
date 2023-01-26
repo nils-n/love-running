@@ -235,3 +235,16 @@ footer i {
     padding: 5%;
     color: #3a3a3a;
 }
+
+/* gallery */
+
+#fotos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;  
+}
+
+#fotos > img {
+    width: 100%;
+} 
