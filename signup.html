@@ -31,18 +31,32 @@
             </ul>
         </nav>
     </header>
-    <section id="fotos">
-        <img src="assets/images/athletes.jpeg" alt="Two athletes running together">
-        <img src="assets/images/girls.jpeg" alt="Three girls running at charity run">
-        <img src="assets/images/runner3.jpeg" alt="Solo male runner jogging at a beach">
-        <img src="assets/images/man.jpeg" alt="Man at charity paint running festival">
-        <img src="assets/images/runner1.jpeg" alt="Solo female runner jogging through phoenix park">
-        <img src="assets/images/runner2.jpeg" alt="Runners competing in a marathon">
-        <img src="assets/images/running_gang.jpeg" alt="Large group of runners participating in a public run">
-        <img src="assets/images/mud-run.jpeg"
-            alt="Two female runnes taking a muddy selfie after what appears to be a Championship">
+
+    <section id="form-section">
+        <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+            <h2>Let's get you signed up!</h2>
+            <label for="fname">First Name</label>
+            <input id="fname" name="first_name" type="text" required>
+
+            <label for="lname">Last Name</label>
+            <input id="lname" name="last_name" type="text" required>
+
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email_address" required>
+
+            <label for="road">Road</label>
+            <input type="radio" id="road" name="running_preference" value="road" required>
+            <label for="trail">Trail</label>
+            <input type="radio" id="trail" name="running_preference" value="trail" required>
+            <label for="both">Both</label>
+            <input type="radio" id="both" name="running_preference" value="both" required>
+
+            <input class="join-button" type="submit" value="Let's Run!">
+        </form>
+    </section>
 
     </section>
+
     <footer>
         <ul>
             <li>
