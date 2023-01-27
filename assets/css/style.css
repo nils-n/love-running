@@ -322,4 +322,14 @@ footer i {
         text-align: center;
         padding: 0 20px;
     }
+
+    #fotos {
+        column-count: 3;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    #fotos {
+        column-count: 2;
+    }
 }
